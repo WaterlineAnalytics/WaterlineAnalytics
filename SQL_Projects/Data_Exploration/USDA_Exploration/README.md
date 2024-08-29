@@ -7,3 +7,5 @@ Using SQL within the SQLite database management system, I explore these datasets
 The project provides a comprehensive look at the dynamics of the agricultural industry and allowed me to apply SQL skills to real-world data. Through this work, I am able to extract meaningful insights that could inform decision-making in the agricultural sector.
 
 This project showcases my proficiency in SQL, data exploration, and analytical thinking. It demonstrates my ability to work with large, complex datasets and derive valuable insights that contribute to understanding industry trends.
+
+Skills used: Creating tables, Joins, CTE's, Temp Tables, Aggregate Functions, Creating Views, Converting Data Types
