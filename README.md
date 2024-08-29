@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WaterlineAnalytics
+- 👋 Hi, I’m Lorris @WaterlineAnalytics
 - 👀 I’m interested in research and data science. I like creating tools to automate tasks, games, and conducting data analytics projects for process improvement.
 - 🌱 I’m currently learning Machine learning through an MIT online program
 - 😄 I'm using this page to showcase the different projects I have worked on as a portfolio
